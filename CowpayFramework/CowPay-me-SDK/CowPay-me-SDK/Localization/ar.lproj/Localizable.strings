@@ -1,0 +1,59 @@
+/*
+  Localizable.strings
+  SelfService
+
+  Created by Imac on 7/9/20.
+  Copyright © 2020 IbnSinai. All rights reserved.
+*/
+"Cairo" = "القاهرة";
+"Giza"= "الجيزة";
+"Haram" = "الهرم";
+"Downtown Alex" = "وسط مدينة الاسكندرية";
+"Sahel" = "الساحل";
+"Behira" = "البحيرة";
+"Dakahlia" = "الدقهلية";
+"El Kalioubia" = "القليوبية";
+"Gharbia" = "الغربية";
+"Monufia" = "المنوفية";
+"Sharqia" =  "الشرقية";
+"Isamilia" = "الاسماعيلية";
+"Suez" = "السويس";
+"Port Said" = "بورسعيد";
+"Damietta" = "دمياط";
+"Fayoum" = "الفيوم";
+"Bani Suif" = "بنى سويف";
+"Asyut" = "اسيوط";
+"Sohag" = "سهاج";
+"Qena" = "قنا";
+"Menya" = "المنيا";
+"Aswan" = "اسوان";
+"Luxor" = "الاقصر";
+"Kafr Alsheikh" = "كفر الشيخ";
+"Select City" = "اختار مدينه" ;
+"Cancel" = "الغاء" ;
+"test" = "احمد";
+"copied" = "تم النسخ";
+"error" = "خطا";
+"success" = "تم العمليه";
+"txtFooter" = "إنشاء و إدارة روابط الدفع لعملك بشكل وثيق";
+"confirmPayment" = "تاكيد الدفع";
+"creditCard" = "بطاقة \n الأتمان";
+"fawryPay" = "فورى \n باى";
+"cashCollection" = "الدفع من \n المنزل";
+"Payment Method" = "طريقة الدفع";
+"fawryText" = "من فضلك اضعط علي تاكيد الدفع لانشاء الرقم المرجعي";
+"Please fill all the fields" = "برجاء ملا جميع الحقول";
+"ok" = "حسنا";
+"Invalid Card Number" = "رقم البطاقة غير صالح";
+"Please Fill a valid Email" = "برجاء ادخال بريد الكتروني صحيح";
+"Fawry Code" = "كود فوري";
+"Copy Code" = "نسخ";
+"Payment Steps:" = "خطوات الدفع:";
+"• Go to any Fawry Retail Store" = "• اذهب إلى أي متجر لدية فورى";
+"• Choose Fawry Pay | فوري باي from the main menu" = "• اختر Fawry Pay | فورى باى من القائمة الرئيسية";
+"• Enter the refrence number:" = " • أدخل الرقم المرجعي:";
+"• Make sure Your data is correct" = "• تأكد من صحة بياناتك";
+"• Pay and Keep the receipt" = "• ادفع واحتفظ بالإيصال";
+"Back" = "العودة";
+"order_success" = "تم تقديم طلبك بنجاح";
+"order_failed" = "فشلت عملية الدفع";
