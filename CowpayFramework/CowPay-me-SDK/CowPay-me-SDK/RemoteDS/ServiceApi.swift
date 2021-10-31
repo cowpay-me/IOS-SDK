@@ -17,6 +17,7 @@ public class ServiceApi {
             switch response.result {
                       case .success(let value):
                           if let json = value as? [String: Any] {
+                            print(json)
                             if(json["success"] as! Bool == true){
                                 completion(json,nil)
                             }else {

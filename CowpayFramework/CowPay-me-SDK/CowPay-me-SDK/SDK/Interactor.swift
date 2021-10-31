@@ -119,7 +119,7 @@ class Interactor {
         let customerMerchantProfileId = CowpaySDK.paymentInfo?.customerMerchantProfileId ?? " "
         let amount = CowpaySDK.paymentInfo?.amount ?? "1.0"
         
-        let signiture = CowpaySDK.haskey + merchantReferenceId + customerMerchantProfileId + amount + CowpaySDK.haskey
+        let signiture = CowpaySDK.merchantCode + merchantReferenceId + customerMerchantProfileId + amount + CowpaySDK.haskey
         
         let SignitureData = sha256(data: signiture.data(using: .utf8)!)
         let signitureString = SignitureData.map { String(format: "%02hhx", $0) }.joined()
