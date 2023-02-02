@@ -1,7 +1,7 @@
 # Cow-Pay-SDK
 an iOS SDK to integrate with cow pay payment gateway
 ## Installation steps 
-Dowload Framework from <a id="raw-url" href="https://github.com/cowpay-me/IOS-SDK/raw/master/Versions/1.0.3/1.0.3.zip">HERE</a>
+Dowload Framework from <a id="raw-url" href="https://github.com/cowpay-me/IOS-SDK/raw/master/Versions/1.0.4/1.0.4.zip">HERE</a>
 ### 1. unzip downloaded file
 ### 2. Copy the framework into your project files 
 ### 3. Choose Embed without siging option 
