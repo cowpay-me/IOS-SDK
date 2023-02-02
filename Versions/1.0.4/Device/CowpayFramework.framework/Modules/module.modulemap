@@ -1,0 +1,11 @@
+framework module CowpayFramework {
+  umbrella header "CowpayFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CowpayFramework.Swift {
+  header "CowpayFramework-Swift.h"
+  requires objc
+}
